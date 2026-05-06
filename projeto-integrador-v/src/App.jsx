@@ -7,11 +7,26 @@ import Botao from './components/Botao'
 import Titulo from './components/Titulo'
 import Capturar from './components/Capturar'
 import Botao2 from './components/Botao'
+import CardAluno from './components/CardAluno'
+
+function App() {
+
+  return (
+    <div>
+      <CardAluno />
+    
+     </div> 
+
+       
+  );
+  
+  }
+
+  
 
 
 
-
-
+/* -----------------------------------------------------------------------------
 function App() {
 
   const [form, setForm] = useState({

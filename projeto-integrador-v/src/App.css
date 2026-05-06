@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+
+.card-aluno {
+  margin: 0 auto;
+  padding: 2rem;
+  color: rgb(0, 195, 255);
+}
+
+.botao1 {
+  margin: 0 auto;
+  padding: 2rem;
+  color: rgb(0, 0, 0);
+  
+}
+
+.botao1:hover {
+  color:rgb(177, 177, 177);
+}
